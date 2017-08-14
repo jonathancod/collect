@@ -459,4 +459,33 @@
   <string name="take_picture_instruction">Toca la pantalla para tomar una foto</string>
   <string name="request_permission">Esta aplicación necesita permisos para usar la cámara</string>
   <string name="camera_error">Este dispositivo no soporta el API Camera2</string>
+
+
+  <string name="invalid_range_widget">This widget has invalid parameters!</string>
+  <string name="form_entry_setting">Form Entry Settings</string>
+  <string name="form_entry_settings_summary">Tap to manage form entry items</string>
+  <string name="user_settings">User Settings</string>
+  <string name="user_setting_summary">Tap to manage general settings items</string>
+  <string name="main_menu_settings">Main Menu Settings</string>
+  <string name="main_menu_settings_summary">Tap to manage main menu items</string>
+  <string name="user_access_control">User Access Control</string>
+  <string name="autosend_selector_title">Auto enviar</string>
+  <string name="off">Off</string>
+  <string name="wifi_autosend">Solo con Wifi</string>
+  <string name="cellular_autosend">Solo con red movil</string>
+  <string name="wifi_cellular_autosend">Wifi o red movil</string>
+  <string name="map_basemap_behavior_title">Basemap</string>
+  <string name="form_management_preferences">Form management</string>
+  <string name="form_submission_category">Form submission</string>
+  <string name="form_filling_category">Form filling</string>
+  <string name="high_resolution_title">High res video</string>
+  <string name="form_import_category">Form import</string>
+  <string name="user_and_device_identity_title">Identidad de usuario y dispositivo</string>
+  <string name="constraint_behavior_title">Constraint processing</string>
+  <string name="show_splash_title">Splash screen</string>
+  <string name="server_settings_title">Servidor</string>
+  <string name="type">Type</string>
+  <string name="form_entry">Uncheck to hide from Form Entry</string>
+  <string name="use_device_language">Usar lenguaje del dispositivo</string>
+  <string name="not_supported_offline_layer_format">Selected offline layer file uses the PBF format which is not supported!</string>
 </resources>
